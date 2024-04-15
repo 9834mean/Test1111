@@ -1,0 +1,6 @@
+djangotest/
+mysite/mysite/mysite/__pycache__/
+mysite/mysite/__pycache__/
+mysite/mysite/travel/__pycache__/
+mysite/travel/__pycache__/
+mysite/mysite/travel/migrations/__pycache__/
